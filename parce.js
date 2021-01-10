@@ -16,7 +16,7 @@ var div = document.createElement('DIV');
 div.setAttribute("id", "theWindowParser");
 div.style.cssText = 'position: fixed; top: 0px;
 z-index: 77777; background: #ccc; width: 100%;
-box-shadow: black 1px 1px 3px 1px;';
+box-shadow: black 1px 1px 3px 1px;';                      
 div.innerHTML = '<div><div><span style="cursor:pointer;
 color:red;
 margin: 5px 15px 5px 5px;
